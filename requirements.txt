@@ -1,13 +1,13 @@
 torch~=1.9.0
-torchrua~=0.3.0
-torchglyph~=0.2.0
-torchlatent~=0.4.0
 tqdm~=4.61.1
 einops~=0.3.0
 flair~=0.8
 seqeval~=1.2.2
 gensim~=3.8.3
-aku~=0.2.3
 colorlog~=5.0.1
 numpy~=1.19.5
 matplotlib~=3.4.2
+aku==0.2.3
+torchrua==0.3.0
+torchglyph==0.2.0
+torchlatent==0.4.0
