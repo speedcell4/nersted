@@ -5,7 +5,7 @@ flair~=0.8
 seqeval~=1.2.2
 gensim~=3.8.3
 colorlog~=5.0.1
-numpy~=1.19.5
+numpy>=1.22
 matplotlib~=3.4.2
 aku==0.2.3
 torchrua==0.3.0
